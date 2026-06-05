@@ -10,6 +10,13 @@ If you are giving up on a routine you committed to, prepare to be judged.
 
 *   **Smart Routines with Tracking**: Not just checkboxes. Tapping a routine card slides up your statistics—when you started, total days completed, and your current streak!
 *   **The Wall of Shame**: Deleted a task because you were too lazy to do it? It doesn't disappear. It gets logged on the Wall of Shame for you to look at. *(Add tasks with care, you've been warned!)*
+
+## 📸 Screenshots
+
+| Home (Pending & Routines) | Routine Statistics | Completed Tasks | Wall of Shame |
+| :---: | :---: | :---: | :---: |
+| <img src="docs/home.jpg" width="200" /> | <img src="docs/routine.jpg" width="200" /> | <img src="docs/completed.jpg" width="200" /> | <img src="docs/shame.jpg" width="200" /> |
+
 *   **Rage & Disappointment Logic**:
     *   Delete a standard task? The app calls you a coward.
     *   Delete a habit you've already started? The app tells you it's disappointed. 
