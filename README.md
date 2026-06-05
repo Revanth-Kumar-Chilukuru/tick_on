@@ -27,7 +27,6 @@ If you are giving up on a routine you committed to, prepare to be judged.
 | :---: | :---: | :---: | :---: |
 | <img src="docs/placeholder.png" width="200" /> | <img src="docs/placeholder.png" width="200" /> | <img src="docs/placeholder.png" width="200" /> | <img src="docs/placeholder.png" width="200" /> |
 
-*(Add your screenshots here!)*
 
 ---
 
