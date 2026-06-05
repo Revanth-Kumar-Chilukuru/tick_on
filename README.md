@@ -21,15 +21,6 @@ If you are giving up on a routine you committed to, prepare to be judged.
 
 ---
 
-## 📸 Screenshots
-
-| Home (Pending & Routines) | Routine Statistics | Completed Tasks | Wall of Shame |
-| :---: | :---: | :---: | :---: |
-| <img src="docs/placeholder.png" width="200" /> | <img src="docs/placeholder.png" width="200" /> | <img src="docs/placeholder.png" width="200" /> | <img src="docs/placeholder.png" width="200" /> |
-
-
----
-
 ## 🏗️ Architecture & Logic Flows
 
 To understand how the app manages state, storage, and the emotional lifecycle of a task, check out these flowcharts!
